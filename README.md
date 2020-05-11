@@ -1,0 +1,1 @@
+# Crash when running app that depends on GetStream/stream-chat-android v4.3.2 and bumptech/glide v4.11.0, changing to the Glide dependency in the app build.grade to v4.9.0 resolves the crash (Stream uses Glide v4.9.0 internally)
